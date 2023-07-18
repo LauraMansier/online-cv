@@ -91,7 +91,24 @@ experiences:
         time: 2021 - 2021
         company: Teia
         details: |
-          Monitoring of bats.
+          Monitoring of bats for nature legislation of buildings.
+      - role: Researcher weasel ecology
+        time: 2020 - 2020
+        company: Bureau Natuurbalans - Limes Divergens
+        details: |
+          Studying weasel ecology in agricultural landscapes as part of my MSc internship.
+      - role: Student assistent Animal Ecology
+        time: 2020 - 2020
+        company: Wageningen University
+        details: |
+          Guiding student through their modelling (Stella) and behavioural observation (snails) practicals.
+      - role: Researcher captive woolly monkey behaviour
+        time: 2019 - 2019
+        company: Amazoonico Wildlife Rescue Center
+        details: |
+          Studying captive woolly monkey behaviour and how their wild behaviour could be encouraged 
+          through the implementation of environmental enrichments. This research was part of my MSc thesis
+          Environmental enrichments for the woolly monkey (Lagothrix lagotricha).
 
 certifications:
       title: Certifications
@@ -102,7 +119,7 @@ certifications:
           organization: Teia
           credentialid: 
           credentialurl: Teia.nl
-          credentialname: Teia
+          credentialname: 
           details: |
             
         - name: Cambridge English Level 2 Certificate in ESOL International (Advanced) - C1
@@ -127,17 +144,17 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      
+      I am working on a landscape-based population-dynamical model of flower feeding natural enemies and their pest prey (coming soon).
     contributions:
       - title: 
         link: ""
-        tagline: "A landscape-based population dynamical model of flower feeding natural enemies and their pest prey"
+        tagline: ""
 
 
 publications:
     title: Publications
     intro: |
-      
+      My first publication will soon be shown here.
     papers:
       - title: 
         link: 
@@ -156,8 +173,13 @@ skills:
       - name: Overleaf
         level: 98%
 
+      - name: Stella
+        level: 70%
+
       - name: QGIS
         level: 50%
+
+
 
 
 footer: >
