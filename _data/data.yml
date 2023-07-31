@@ -114,6 +114,61 @@ experiences:
 certifications:
       title: Certifications
       list:
+        - name: Scientific Writing
+          start: 2023
+          end: 
+          organization: Wageningen into Languages
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
+        - name: Theoretical Ecology
+          start: 2022
+          end: 
+          organization: Production Ecology & Resource Conservation (PE&RC) & Institute for Biodiversity and Ecosystem Dynamics
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
+        - name: Statistical Uncertainty Analysis of Dynamic Models
+          start: 2022
+          end: 
+          organization: Production Ecology & Resource Conservation (PE&RC) & Wageningen Institute for Environment and Climate Research (WIMEK)
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+          
+        - name: African roads to Sustainable Agroecology; Transdisciplinary Field Course
+          start: 2022
+          end: 
+          organization: Production Ecology & Resource Conservation (PE&RC)
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
+        - name: Teaching Modules
+          start: 2021
+          end: 
+          organization: Teaching and Learning Centre University of Amsterdam (UvA)
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+          
+
+        - name: The Art of Modelling
+          start: 2021
+          end: 
+          organization: Production Ecology & Resource Conservation (PE&RC) & Wageningen Institute for Environment and Climate Research (WIMEK)
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+          
         - name: Natuurwetgeving gebouwen
           start: 2021
           end: 
