@@ -210,11 +210,10 @@ oss:
 publications:
     title: Publications
     intro: |
-      My first publication will soon be shown here.
     papers:
-      - title: 
-        link: 
-        authors: 
+      - title: Modelling agricultural landscape complementation for natural pest control
+        link: https://besjournals.onlinelibrary.wiley.com/doi/10.1111/1365-2664.14790
+        authors: Laura Mansier & Paul C.J van Rijn
         conference: 
 
 grants:
@@ -229,7 +228,10 @@ skills:
 
       - name: Overleaf (LaTeX)
         level: 98%
-
+        
+      - name: Canva
+        level: 100%
+        
       - name: Stella
         level: 70%
 
