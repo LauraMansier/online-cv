@@ -200,10 +200,10 @@ projects:
 oss:
     title: OSS Contributions
     intro: >
-      I am working on a landscape-based population-dynamical model of flower feeding natural enemies and their pest prey (coming soon).
+      I am working on a landscape-based population-dynamical model of flower feeding natural enemies and their pest prey.
     contributions:
-      - title: 
-        link: ""
+      - title: ArableLandscape-PestControl_version1
+        link: "https://zenodo.org/records/13736744"
         tagline: ""
 
 
