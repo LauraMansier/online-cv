@@ -209,13 +209,13 @@ oss:
     intro: >
       I am working on a landscape-based population-dynamical models of flower feeding natural enemies and their pest prey.
     contributions:
-      - title: Model Landscape composition and configuration affect natural pest control
+      - title: Model: Landscape composition and configuration affect natural pest control
         link: "https://zenodo.org/records/17047394"
         tagline: ""        
-      - title: Model How semi-natural habitats can maximally support nautral pest control
+      - title: Model: How semi-natural habitats can maximally support nautral pest control
         link: "https://zenodo.org/records/16980965"
         tagline: ""    
-      - title: Dataset Factors causing variability in pest control in the presence of flower strips.
+      - title: Dataset: Factors causing variability in pest control in the presence of flower strips.
         link: "https://zenodo.org/records/16980730"
         tagline: ""
       - title: ArableLandscape-PestControl_version1
