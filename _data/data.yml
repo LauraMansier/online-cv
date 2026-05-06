@@ -8,8 +8,8 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Laura Mansier
-    tagline: PhD Candidate
+    name: Dr. Laura Mansier
+    tagline: Post Doctoral researcher
     avatar: profile_pic.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -54,13 +54,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Currently, I am doing my PhD at the University of Amsterdam, 
-      where I will be developing necessary ecological knowledge on 
-      the role of landscape complementation in supporting focal 
-      populations and ecosystem services in agricultural landscapes. 
-      I will do this through both ecological modelling and ecological 
-      monitoring, to establish biodiversity-friendly farming practices 
-      with a focus on the landscape.
+      Currently, I am a Post Doctoral researcher at the University of Amsterdam. 
+      My work aims to understand how population dynamics respond to landscape change, 
+      I do so by modelling approaches. My research line focusses on predator-prey dynamics in conservation biological control and, 
+      simultaneously, increasing biodiversity in agricultural landscapes.
 education:
     title: Education
     info:
@@ -77,8 +74,15 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Post Doctoral researcher
+        time: 2026 - Present
+        company: University of Amsterdam
+        details: |
+            I continue my line of research from my PhD, with a focus on pests in potato, winter wheat, onion and sugarbeet.
+          My work is a part of the research project FAB Forward
+          financed by the NWO KIC-program.
       - role: PhD Candidate
-        time: 2021 - Present
+        time: 2021 - 2025
         company: University of Amsterdam
         details: |
           My work aims to understand how population dynamics respond to landscape change, 
@@ -192,16 +196,28 @@ projects:
     title: Projects
     intro: 
     assignments:
+      - title: FAB Forward
+        link: "https://www.linkedin.com/company/fab-forward/"
+        tagline: "A Dutch project focussing on natural pest control in four arable crops: potato, winter wheat, onion and sugar beet"
       - title: FRAMEwork
         link: "https://www.framework-biodiversity.eu/"
-        tagline: "A project focussing on biodiversity conservation in agricultural landscapes."
+        tagline: "An European project focussing on biodiversity conservation in agricultural landscapes."
 
 
 oss:
     title: OSS Contributions
     intro: >
-      I am working on a landscape-based population-dynamical model of flower feeding natural enemies and their pest prey.
+      I am working on a landscape-based population-dynamical models of flower feeding natural enemies and their pest prey.
     contributions:
+     - title: Model: Landscape composition and configuration affect natural pest control
+        link: "https://zenodo.org/records/17047394"
+        tagline: ""
+     - title: Model: How semi-natural habitats can maximally support nautral pest control
+        link: "https://zenodo.org/records/16980965"
+        tagline: ""
+     - title: Dataset: Factors causing variability in pest control in the presence of flower strips.
+        link: "https://zenodo.org/records/16980730"
+        tagline: ""
       - title: ArableLandscape-PestControl_version1
         link: "https://zenodo.org/records/13736744"
         tagline: ""
